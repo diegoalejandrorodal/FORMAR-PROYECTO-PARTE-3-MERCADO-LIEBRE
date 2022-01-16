@@ -1,0 +1,14 @@
+{
+  "name": "mercado_liebre_3-main",
+  "version": "1.0.0",
+  "description": "<img src=\"https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-3-MERCADO-LIEBRE/blob/main/public/img-consigna/1.png\">\r <img src=\"https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-3-MERCADO-LIEBRE/blob/main/public/img-consigna/2.png\">\r <img src=\"https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-3-MERCADO-LIEBRE/blob/main/public/img-consigna/3.png\">\r <img src=\"https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-3-MERCADO-LIEBRE/blob/main/public/img-consigna/4.png\">\r <img src=\"https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-3-MERCADO-LIEBRE/blob/main/public/img-consigna/5.png\">\r <img src=\"https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-3-MERCADO-LIEBRE/blob/main/public/img-consigna/6.png\">\r <img src=\"https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-3-MERCADO-LIEBRE/blob/main/public/img-consigna/7.png\">\r # FORMAR-PROYECTO-PARTE-3-MERCADO-LIEBRE",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DIEGO ALEJANDRO RODAL",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
