@@ -6,5 +6,3 @@
 <img src="https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-3-MERCADO-LIEBRE/blob/main/public/img-consigna/5.png">
 <img src="https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-3-MERCADO-LIEBRE/blob/main/public/img-consigna/6.png">
 <img src="https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-3-MERCADO-LIEBRE/blob/main/public/img-consigna/7.png">
-# FORMAR-PROYECTO-PARTE-3-MERCADO-LIEBRE
-# FORMAR-PROYECTO-PARTE-3-MERCADO-LIEBRE
